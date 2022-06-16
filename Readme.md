@@ -13,6 +13,9 @@ Os argumentos entre colchetes são opcionais, seu significado é descrito a segu
 Exemplo:
     `python server.py advsearch.randomplayer advsearch.randomplayer -d 1 -p 0.3`
 
+Exemplo testando o you_agent (que por enquanto tem esse nome, mudar esse código quando mudarmos o nome)
+    `python server.py advsearch.your_agent advsearch.randomplayer -d 1 -p 0.3`
+
 
 ## Funcionamento
 
