@@ -1,3 +1,7 @@
+## Agente Reversi
+
+Desenvolvido para a disciplina 85EAG - Engenharia de Software Orientada a Agentes do curso Engenharia de Software da Udesc - Ceavi.
+
 ## Execução
     `python server.py [-h] [-d delay] [-p pace]  [-o output-file] [-l log-history] advsearch.player1 advsearch.player2`
 
